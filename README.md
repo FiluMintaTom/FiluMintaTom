@@ -1,4 +1,4 @@
-# 👋 Hey, I'm @FiluMintaTom!
+# 👋 Hey, I'm FiluMintaTom!
 
 I’m an **aspiring tech enthusiast** and creative thinker who loves designing beautiful and intuitive user interfaces. Working in Figma is where I feel most expressive, and I enjoy transforming ideas into engaging digital experiences.
 
