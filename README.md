@@ -32,7 +32,7 @@ I'm passionate about cybersecurity, digital forensics, network security, and exp
 
 ### 🛠️ Technologies & Tools
 
-- **Languages:** Python, SQL
+- **Languages:** Python, SQL, Java, C
 - **Database:** MySQL
 - **Web Technologies:** HTML, CSS
 - **Design:** Figma
